@@ -1,4 +1,4 @@
-# Machine Learning for Roads Segmentation
+# Machine Learning for Road Segmentation
 
 # Project Structure:
 The project is divided into three modules:
